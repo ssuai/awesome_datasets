@@ -10,6 +10,11 @@ links to interesting datasets
 * A Dataset for Generating Stories with Character Descriptions
 * https://github.com/mingdachen/TVRecap
 
+
+### DialogID
+* Instruction Dataset
+* https://github.com/ai4ed/DialogID
+
 ## Question Answering
 ### ConvFinQA
 * https://github.com/czyssrs/ConvFinQA
