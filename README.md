@@ -43,5 +43,8 @@ links to interesting datasets
 * https://paperswithcode.com/dataset/wikitext-103
 
 
+## Others
+### Semantic Tex- tual Relatedness
+* https://github.com/priya22/semantic-textual-relatedness
 
 
