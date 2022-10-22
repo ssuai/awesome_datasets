@@ -19,7 +19,7 @@ links to interesting datasets
 * A Dataset for Generating Stories with Character Descriptions
 * https://github.com/mingdachen/TVRecap
 
-### InstructGPT
+### Generate anaoliges using InstructGPT
 * https://github.com/Bhaavya/InstructGPT-Analogies
 
 ## Education
