@@ -1,6 +1,11 @@
 # awesome datasets
 links to interesting datasets
 
+## Learning theory
+### MemoTrap Dataset
+https://github.com/liujch1998/memo-trap
+
+
 ## Reading comprehension
 ### HotpotQA
 * https://paperswithcode.com/dataset/hotpotqa
